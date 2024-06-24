@@ -16,9 +16,9 @@ The code in the `end_to_end_process.ipynb` file provides the entire procedure:
 1. Download full data
 2. Create datasets based on the full data by different requests
 3. Apply simple data stream analysis and algorithms
-   1. Regression
-   2. Prediction Interval
-   3. Drift analysis
+   - Regression
+   - Prediction Interval
+   - Drift analysis
 
 ## Multiple Datasets Generation
 
